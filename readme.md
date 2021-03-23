@@ -4,7 +4,7 @@
 
 This guide is a Pi Pico version of a [giant media control volume knob from the prusa website](https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/)
 
-While [Arduino IDE support for Pi Pico](https://www.seeedstudio.com/blog/2021/01/29/arduino-ide-support-announced-for-the-raspberry-pi-pico/) was announced, there's no sign of a release yet. Without the ardunio support rotary encoder c++ libraries _or_ decent support in [microPython](https://micropython.org)(which comes pre-installed on the pico), the beta [CircuitPython](https://circuitpython.orghttps://circuitpython.org) build seems to be the way to go!
+While [Arduino IDE support for Pi Pico](https://www.seeedstudio.com/blog/2021/01/29/arduino-ide-support-announced-for-the-raspberry-pi-pico/) was announced, there's no sign of a release yet. Without the ardunio support rotary encoder c++ libraries _or_ decent support in [microPython](https://micropython.org)(which comes pre-installed on the pico), the beta [CircuitPython](https://circuitpython.org) build seems to be the way to go!
 
 ## Hardware
 
